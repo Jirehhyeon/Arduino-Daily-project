@@ -1,0 +1,139 @@
+# Arduino IDE files
+*.ino.backup
+*.ino~
+*.hex
+*.elf
+*.bin
+
+# Build directories
+build/
+*.build/
+
+# Libraries (if not needed in repo)
+libraries/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Hardware specific
+*.fzz
+*.fzb
+
+# Simulation files
+*.sim
+*.simu
+
+# Backup files
+backup/
+*.backup
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Python (for utility scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js (if using any web tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Images (comment out if you want to include them)
+# *.jpg
+# *.jpeg  
+# *.png
+# *.gif
+# *.bmp
+
+# Videos (usually too large for git)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+
+# IDE settings that shouldn't be shared
+.settings/
+.project
+.cproject
+.metadata/
+
+# Compiled Documentation
+*.chm
+*.pdf
+
+# Certificates and keys (NEVER commit these)
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
