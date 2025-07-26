@@ -23,6 +23,17 @@
 [![Motor Shield](https://img.shields.io/badge/HW--020-L298P-red?style=for-the-badge)](https://github.com/Jirehhyeon/Arduino-Daily-project)
 [![Safety First](https://img.shields.io/badge/Safety-Verified-green?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Jirehhyeon/Arduino-Daily-project)
 
+## 📚 문서 가이드
+
+### 📖 **사용자 가이드**
+- **⚡ [빠른 시작](QUICK_START_GUIDE.md)**: 10분 안에 시작하기
+- **📘 [완전한 매뉴얼](Smart_Fan_README.md)**: 상세한 기능 및 사용법
+- **🔧 [문제 해결](TROUBLESHOOTING.md)**: 포괄적인 트러블슈팅 가이드
+
+### 🔬 **기술 문서**
+- **🔌 [회로도](Smart_Fan_Circuit_Diagram.md)**: 상세한 하드웨어 연결 가이드
+- **🚀 [개발 로드맵](PROJECT_ROADMAP.md)**: 향후 개발 계획 및 기여 방법
+
 ## ✨ 주요 기능
 
 ### 🎛️ **완전한 모터 제어**
